@@ -99,7 +99,7 @@ with st.sidebar:
     """)
 
 # --- Main App Area ---
-st.markdown("<h1 class='cyber-header'>🧠 Bug2Brain <span style='font-size:0.4em; color:var(--text-secondary);'>Powered by Google Gemini</span></h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='cyber-header'>🧠 Bug2Brain</h1>", unsafe_allow_html=True)
 st.markdown("### *Debug the code. Understand the cause. Learn to prevent it.*")
 
 col1, col2 = st.columns([1, 1])
