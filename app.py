@@ -22,7 +22,6 @@ st.markdown("""
     .cyber-header {
         font-family: 'Courier New', Courier, monospace;
         color: #00FFFF;
-        text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF;
     }
     .cyber-card {
         background-color: #131a28;
